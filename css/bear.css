@@ -10,3 +10,6 @@ html {
 
 /* Write your solution here */
 
+@media screen only and (max-width: 1196px) {
+  right: 800px;
+}
