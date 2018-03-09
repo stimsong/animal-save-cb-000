@@ -25,3 +25,10 @@ html {
     top: 200px;
   }
 }
+
+@media only screen and (max-width: 880px) {
+  #dolphin {
+    top: 200px;
+    transform: rotate(0.5turn);
+  }
+}
